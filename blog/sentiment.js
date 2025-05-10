@@ -7,7 +7,7 @@ Analyze the sentiment of the following blog post. Respond with just one word: Po
 Blog post:
 ${postDescription}
 `;
-
+// sentiment features added and handled using Try catch block 
   try {
     const response = await axios({
       method: "POST",
