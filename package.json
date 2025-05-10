@@ -1,5 +1,5 @@
 {
-  "name": "blogapp-server",
+  "name": "blog_app-server",
   "version": "1.0.0",
   "description": "Backend for blogs management",
   "type": "module",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Capstone-MERN/blog-app-server.git"
+    "url": "git+https://github.com/Deepakbst1/AI-Sentiment-Analysis-Blogging-Server"
   },
   "author": "Deepak Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Capstone-MERN/blog-app-server/issues"
+    "url": "https://github.com/Deepakbst1/AI-Sentiment-Analysis-Blogging-Server/issues"
   },
-  "homepage": "https://github.com/Capstone-MERN/blog-app-server#readme",
+  "homepage": "https://github.com/Deepakbst1/AI-Sentiment-Analysis-Blogging-Server#readme",
   "dependencies": {
     "axios": "^1.8.4",
     "bcrypt": "^5.1.1",
